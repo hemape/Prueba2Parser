@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<acciones>
+	<accion>
+		<nombreaccion>ACCION1</nombreaccion>
+		<operaciones>
+			<operacion>ABCD</operacion>
+			<operacion>EFGH</operacion>
+		</operaciones>
+	</accion>
+	<accion>
+		<nombreaccion>ACCION2</nombreaccion>
+		<operaciones>
+			<operacion>IJKL</operacion>
+			<operacion>MNOP</operacion>
+		</operaciones>
+	</accion>
+</acciones>
